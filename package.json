@@ -2,7 +2,8 @@
   "name": "goit-typescript-hw-01",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./dist/index.js",
+  "homepage": "https://Ariy83.github.io/goit-typescript-hw-01/",
   "scripts": {
     "start": "web-dev-server --node-resolve --open --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
