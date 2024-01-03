@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "baseUrl": "./",
     "rootDir": "./src",
     "outDir": "./dist",
     "allowJs": false,
@@ -16,6 +17,5 @@
     "target": "es2019",
     "sourceMap": true
   },
-  "include": ["**/*.ts"],
-  "baseUrl": "./"
+  "include": ["**/*.ts"]
 }
